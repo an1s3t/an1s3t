@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning html css javascript
 - 💞️ I’m looking to collaborate on group projects
-- 📫 How to reach me : email -  anisetcej@gmail.com
+
 
 <!---
 an1s3t/an1s3t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
